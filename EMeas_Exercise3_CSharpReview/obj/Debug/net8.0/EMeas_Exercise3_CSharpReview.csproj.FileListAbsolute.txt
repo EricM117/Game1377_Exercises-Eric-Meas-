@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\bin\Debug\net8.0\EMeas_Exercise3_CSharpReview.exe
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\bin\Debug\net8.0\EMeas_Exercise3_CSharpReview.deps.json
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\bin\Debug\net8.0\EMeas_Exercise3_CSharpReview.runtimeconfig.json
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\bin\Debug\net8.0\EMeas_Exercise3_CSharpReview.dll
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\bin\Debug\net8.0\EMeas_Exercise3_CSharpReview.pdb
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.AssemblyInfo.cs
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.sourcelink.json
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.dll
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\refint\EMeas_Exercise3_CSharpReview.dll
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.pdb
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\EMeas_Exercise3_CSharpReview.genruntimeconfig.cache
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\EMeas_Exercise3_CSharpReview\obj\Debug\net8.0\ref\EMeas_Exercise3_CSharpReview.dll

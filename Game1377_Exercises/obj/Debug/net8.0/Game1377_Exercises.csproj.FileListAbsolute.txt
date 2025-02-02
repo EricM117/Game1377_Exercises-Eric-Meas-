@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\bin\Debug\net8.0\Game1377_Exercises.exe
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\bin\Debug\net8.0\Game1377_Exercises.deps.json
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\bin\Debug\net8.0\Game1377_Exercises.runtimeconfig.json
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\bin\Debug\net8.0\Game1377_Exercises.dll
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\bin\Debug\net8.0\Game1377_Exercises.pdb
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.AssemblyInfo.cs
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.sourcelink.json
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.dll
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\refint\Game1377_Exercises.dll
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.pdb
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\Game1377_Exercises.genruntimeconfig.cache
+C:\Users\Eric\Desktop\Game_1377\Game1377_Exercises\Game1377_Exercises\obj\Debug\net8.0\ref\Game1377_Exercises.dll
