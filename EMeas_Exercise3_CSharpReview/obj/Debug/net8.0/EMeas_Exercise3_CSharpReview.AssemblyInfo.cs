@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EMeas_Exercise3_CSharpReview")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a016532a20882dfdfaf2a1e73b308db3c0d3ca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a373d216e784e2debe983f05210e01d0a9bca33")]
 [assembly: System.Reflection.AssemblyProductAttribute("EMeas_Exercise3_CSharpReview")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EMeas_Exercise3_CSharpReview")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
