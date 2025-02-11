@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Game1377_Exercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a016532a20882dfdfaf2a1e73b308db3c0d3ca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2bc3c1ced3f082070f1ee59544e273c6e2ac7f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Game1377_Exercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Game1377_Exercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
